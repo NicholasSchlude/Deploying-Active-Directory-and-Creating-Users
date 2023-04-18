@@ -1,4 +1,4 @@
-# Deploying-Active-Directory
+# Deploying-ActiveDirectory
 The purpose of the lab below was to set up Active Directory using Virtual Box. 
 
 <h2> Environments and Technologies Used </h2>
